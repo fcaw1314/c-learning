@@ -9,7 +9,7 @@ int main()
 {
 	try
 	{
-		yxb::test_string5();
+		yxb::test_string9();
 
 	}
 	catch (const exception& e)
